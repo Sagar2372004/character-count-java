@@ -1,0 +1,17 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore Eclipse project files
+.settings/
+.project
+.classpath
+
+# Ignore build output
+bin/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
